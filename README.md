@@ -5,4 +5,4 @@ This templates is the first version. I couldn't publish it on Google Play. I rem
 If you want to install it directly on your watch:
 
 Starfield - FE https://www.facer.io/watchface/Uqxws7Jzsr
-Starfield - FE 24h https://www.facer.io/watchface/NqZQIx6jmP
+Starfield - FE 24h <iframe src="https://www.facer.io/watchface/NqZQIx6jmP/embed" width="435" height="580" style="border:0;"></iframe>
