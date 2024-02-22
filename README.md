@@ -6,6 +6,6 @@ I couldn't publish it on Google Play. So I remade it for Facer app to make more 
 
 If you want to install it directly on your device:
 
-[Starfield - FE](https://www.facer.io/watchface/Uqxws7Jzsr)
+[Starfield - FE](https://www.facer.io/watchface/uWGK1YczKi)
 
-[Starfield - FE 24h](https://www.facer.io/watchface/NqZQIx6jmP)
+[Starfield - FE 24h](https://www.facer.io/watchface/CI5YP20yHy)
